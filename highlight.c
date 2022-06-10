@@ -66,7 +66,7 @@
 #define USER_DEF     16  /* User-defined theme. */
 
 /* Current theme. */
-int CURRENT_THEME = ELF_DEITY;
+int CURRENT_THEME = COLOR_8;
 
 /* Color map. */
 char *COLORS[] = {
